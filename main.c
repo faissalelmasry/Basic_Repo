@@ -3,7 +3,7 @@
 
 void main(void)
 {
-    int x=10;
+    char i=12;
     /*develop version*/
     int z=x+1;
     int y=x+z;
