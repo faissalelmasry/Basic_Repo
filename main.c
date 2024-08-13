@@ -3,7 +3,7 @@
 
 void main(void)
 {
-    char i=12;
+    char master=88;
     /*develop version*/
     int z=x+1;
     int y=x+z;
